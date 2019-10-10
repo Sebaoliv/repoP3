@@ -1,0 +1,10 @@
+C:\Users\Sebastian\source\repos\ObligatorioP3\ServicioWCF\obj\Debug\ServicioWCF.csprojAssemblyReference.cache
+C:\Users\Sebastian\source\repos\ObligatorioP3\ServicioWCF\obj\Debug\ServicioWCF.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\ObligatorioP3\ServicioWCF\bin\ServicioWCF.dll.config
+C:\Users\Sebastian\source\repos\ObligatorioP3\ServicioWCF\bin\ServicioWCF.dll
+C:\Users\Sebastian\source\repos\ObligatorioP3\ServicioWCF\bin\ServicioWCF.pdb
+C:\Users\Sebastian\source\repos\ObligatorioP3\ServicioWCF\bin\ObligatorioP3.dll
+C:\Users\Sebastian\source\repos\ObligatorioP3\ServicioWCF\bin\ObligatorioP3.pdb
+C:\Users\Sebastian\source\repos\ObligatorioP3\ServicioWCF\obj\Debug\ServicioWCF.csproj.CopyComplete
+C:\Users\Sebastian\source\repos\ObligatorioP3\ServicioWCF\obj\Debug\ServicioWCF.dll
+C:\Users\Sebastian\source\repos\ObligatorioP3\ServicioWCF\obj\Debug\ServicioWCF.pdb

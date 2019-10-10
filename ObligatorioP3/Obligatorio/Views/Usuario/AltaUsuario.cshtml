@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "AltaUsuario";
+}
+
+<h2>Alta usuario</h2>
+<form metod="post" action="~/Usuario/AltaUsuario">
+    <label for="email">Email:</label>
+          <input class="requerido" type="text" id="email" name="Email" placeholder="Ingrese el Email" />
+      
+    <br />
+            <input type="text" class="requerido"  id="apellido" name="Apellido" placeholder="Ingrese el Apellido" />
+   
+
+    <input type="submit" value="Alta" onclick="return validar()" />
+
+</form>
+<span>
+    @ViewBag.Resultado
+</span>
+

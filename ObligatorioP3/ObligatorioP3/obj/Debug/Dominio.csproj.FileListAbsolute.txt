@@ -1,0 +1,6 @@
+C:\Users\Sebastian\source\repos\ObligatorioP3\ObligatorioP3\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Sebastian\source\repos\ObligatorioP3\ObligatorioP3\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\ObligatorioP3\ObligatorioP3\bin\Debug\ObligatorioP3.dll
+C:\Users\Sebastian\source\repos\ObligatorioP3\ObligatorioP3\bin\Debug\ObligatorioP3.pdb
+C:\Users\Sebastian\source\repos\ObligatorioP3\ObligatorioP3\obj\Debug\ObligatorioP3.dll
+C:\Users\Sebastian\source\repos\ObligatorioP3\ObligatorioP3\obj\Debug\ObligatorioP3.pdb
